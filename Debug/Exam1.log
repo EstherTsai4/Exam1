@@ -1,0 +1,5 @@
+﻿  Theater.cpp
+c:\users\toest\documents\github\exam1\exam1\theater.cpp(62): warning C4715: 'Theater::getMovieForHour': not all control paths return a value
+c:\users\toest\documents\github\exam1\exam1\theater.cpp(91): warning C4715: 'Theater::getShowtimeForGenre': not all control paths return a value
+  Exam1.vcxproj -> C:\Users\toest\Documents\GitHub\Exam1\Debug\Exam1.exe
+  Exam1.vcxproj -> C:\Users\toest\Documents\GitHub\Exam1\Debug\Exam1.pdb (Full PDB)
